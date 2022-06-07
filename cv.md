@@ -26,3 +26,8 @@ https://github.com/reismoos/rsschool-cv
 Courses:
 * [HTML (code-basics)](https://ru.code-basics.com/languages/html)
 * [JavaScript (code-basics)](https://ru.code-basics.com/languages/javascript)
+## ***Languages:***
+
+English - A1
+
+Russian - Native
