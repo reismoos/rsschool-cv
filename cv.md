@@ -8,3 +8,21 @@
 * [**Github**](https://github.com/reismoos)
 ## ***About me:***
 I love learning something new. Now I am interested in front-end development, and in the future I would like to work and develop in this direction. 
+## ***Skills:***
+* HTML
+* CSS 
+* JavaScript (Basic)
+* Git/GitHub
+## ***Code example:***
+```
+function multiply(a, b) {
+  return a * b
+} 
+```  
+## ***Work experience:***
+CV project (Git/Github, markdown)
+https://github.com/reismoos/rsschool-cv
+## ***Education:***
+Courses:
+* [HTML (code-basics)](https://ru.code-basics.com/languages/html)
+* [JavaScript (code-basics)](https://ru.code-basics.com/languages/javascript)
